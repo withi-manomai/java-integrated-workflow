@@ -1,0 +1,1 @@
+./gradlew spotLessCheck test
