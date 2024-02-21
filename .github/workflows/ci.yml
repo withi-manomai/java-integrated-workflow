@@ -17,4 +17,3 @@ jobs:
             distribution: 'zulu'
       -   name: Run Unit Tests
           run: ./gradlew test
-#
